@@ -47,5 +47,11 @@ Welcome to my GitHub! I'm a passionate Fullstack Developer, AWS Certified Soluti
 
 ---
 
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-bajaj-10ab42242/)
+- 📫 Email: dhruvbajaj789@gmail.com
+<!-- - 🌐 Portfolio: [your-website.com](https://your-website.com) -->
+
 
 Thanks for stopping by! Feel free to explore my repos and drop a ⭐ if you find something cool! 😊
