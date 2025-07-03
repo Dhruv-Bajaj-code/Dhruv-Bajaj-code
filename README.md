@@ -15,24 +15,6 @@ Welcome to my GitHub! I'm a passionate Fullstack Developer, AWS Certified Soluti
 - 📊 **Data Structures & Algorithms** – 200+ LeetCode problems solved
 
 ---
-
-## 🚀 Projects I'm Proud Of
-
-- **gotLost** – A full-fledged web app for reporting and matching lost/found items. Includes face recognition and responsive design.
-- **Crypto Price Alerts** – A FastAPI + WebSocket-based alert system that monitors real-time crypto prices using Binance Futures API.
-- **File Sharing System (GoLang)** – Built a robust backend with file uploads, metadata caching (Redis), email-based file sharing, and user auth using Go, PostgreSQL, and GORM.
-
----
-
-## 🏆 Hackathons & Achievements
-
-- 🥇 Finalist @ Code4Change 2024 – Built a Udemy-like platform with chatbot support
-- 🏅 Semi-finalist @ IGNITIA Hackathon 2023 – Created an OLX-style marketplace for college students
-- 📜 AWS Certified Solutions Architect – Associate
-- 🧠 Built backend systems at **BigTalk** during internship
-
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
